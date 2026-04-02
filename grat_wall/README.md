@@ -13,7 +13,7 @@ MVP version with no auth & in-memory storage.
 ## 🚀 How to run
 ### Clone the repo
 ```bash
-git clone https://github.com/Anna-Halaapiapi/personal_projects/grat_wall.git
+git clone https://github.com/Anna-Halaapiapi/personal-projects/grat_wall.git
 cd grat_wall
 ```
 ### Install the dependencies
